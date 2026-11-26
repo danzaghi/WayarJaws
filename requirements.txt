@@ -1,0 +1,3 @@
+# WayarJaws - Wireless Intrusion Detection System
+# Dependencies
+scapy>=2.5.0
